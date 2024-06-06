@@ -1,0 +1,39 @@
+2024-05-17T15:32:56.954+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] com.ivn.MangxahoiIvnApplication          : Starting MangxahoiIvnApplication using Java 17.0.8 with PID 2616 (C:\Users\nbtie\eclipse-workspace\mangxahoi_IVN\target\classes started by nbtie in C:\Users\nbtie\eclipse-workspace\mangxahoi_IVN)
+2024-05-17T15:32:56.955+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] com.ivn.MangxahoiIvnApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-05-17T15:32:57.147+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-17T15:32:57.148+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-17T15:32:57.148+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-17T15:32:57.163+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-17T15:32:57.164+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 207 ms
+2024-05-17T15:32:57.206+07:00  WARN 2616 --- [mangxahoi_IVN] [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+2024-05-17T15:32:57.215+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-17T15:32:57.223+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-17T15:32:57.228+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] com.ivn.MangxahoiIvnApplication          : Started MangxahoiIvnApplication in 0.325 seconds (process running for 14337.751)
+2024-05-17T15:32:57.229+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-05-17T15:35:42.282+07:00  INFO 2616 --- [mangxahoi_IVN] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-17T15:35:42.389+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] com.ivn.MangxahoiIvnApplication          : Starting MangxahoiIvnApplication using Java 17.0.8 with PID 2616 (C:\Users\nbtie\eclipse-workspace\mangxahoi_IVN\target\classes started by nbtie in C:\Users\nbtie\eclipse-workspace\mangxahoi_IVN)
+2024-05-17T15:35:42.390+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] com.ivn.MangxahoiIvnApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-05-17T15:35:42.609+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-17T15:35:42.610+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-17T15:35:42.610+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-17T15:35:42.626+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-17T15:35:42.627+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 234 ms
+2024-05-17T15:35:42.677+07:00  WARN 2616 --- [mangxahoi_IVN] [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+2024-05-17T15:35:42.693+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-17T15:35:42.706+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-17T15:35:42.710+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] com.ivn.MangxahoiIvnApplication          : Started MangxahoiIvnApplication in 0.348 seconds (process running for 14503.233)
+2024-05-17T15:35:42.712+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-05-17T15:37:36.859+07:00  INFO 2616 --- [mangxahoi_IVN] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-17T15:37:36.952+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] com.ivn.MangxahoiIvnApplication          : Starting MangxahoiIvnApplication using Java 17.0.8 with PID 2616 (C:\Users\nbtie\eclipse-workspace\mangxahoi_IVN\target\classes started by nbtie in C:\Users\nbtie\eclipse-workspace\mangxahoi_IVN)
+2024-05-17T15:37:36.952+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] com.ivn.MangxahoiIvnApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-05-17T15:37:37.143+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-17T15:37:37.144+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-17T15:37:37.145+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-17T15:37:37.157+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-17T15:37:37.158+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 204 ms
+2024-05-17T15:37:37.212+07:00  WARN 2616 --- [mangxahoi_IVN] [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+2024-05-17T15:37:37.222+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-17T15:37:37.234+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-17T15:37:37.240+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] com.ivn.MangxahoiIvnApplication          : Started MangxahoiIvnApplication in 0.311 seconds (process running for 14617.762)
+2024-05-17T15:37:37.241+07:00  INFO 2616 --- [mangxahoi_IVN] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-05-17T15:40:37.620+07:00  INFO 2616 --- [mangxahoi_IVN] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
